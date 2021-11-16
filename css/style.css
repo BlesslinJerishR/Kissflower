@@ -1,25 +1,51 @@
-html,body{
+html,
+body {
     overflow-x: hidden;
     font-family: 'Poppins', sans-serif;
 }
 
-nav{
+body {
+    overflow: hidden;
+}
+
+nav {
     padding: 0 0 0 80px;
 }
 
-#navbarNav{
+#navbarNav {
     position: relative;
     left: 33%;
     font-family: 'Poppins', sans-serif;
 }
-.navbar-brand{
-    font-family: 'Barlow', sans-serif;
-}
 
-li{
+
+li {
     list-style: none;
+    padding: 0px 10px 0 10px;
 }
 
-.dropdown-menu p{
+.dropdown-menu p {
     font-size: smaller;
+}
+
+p {
+    font-size: 10px !important;
+}
+
+.vl {
+    border-left: 1px solid #000;
+    height: 300px;
+    position: relative;
+    top: -25px;
+    left: 30px;
+}
+
+.lis {
+    font-size: 14px;
+    padding: 3px;
+}
+
+div {
+    display: flex;
+    align-items: flex-start;
 }

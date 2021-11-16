@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1368px" height="625px" viewBox="0 0 1368 625" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Homepage_Desktop Copy</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1366" height="2237"></rect>
+        <linearGradient x1="50%" y1="3.06161713e-15%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#ECF3FF" offset="0%"></stop>
+            <stop stop-color="#E5E9EC" stop-opacity="0.119999997" offset="44.2708343%"></stop>
+            <stop stop-color="#ECF3FF" stop-opacity="0.74000001" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-4" cx="344.5" cy="344.5" r="344.5"></circle>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="689" height="689" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <circle id="path-6" cx="344.499946" cy="344.499904" r="253.5"></circle>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="507" height="507" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <circle id="path-8" cx="344.499812" cy="344.500027" r="154.5"></circle>
+        <mask id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="309" height="309" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+        <linearGradient x1="21.917808%" y1="9.58904207%" x2="89.4977156%" y2="92.9223728%" id="linearGradient-10">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F4C6EF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="92.6940681%" y1="100.000002%" x2="12.3287741%" y2="23.0593615%" id="linearGradient-11">
+            <stop stop-color="#D341A5" offset="0%"></stop>
+            <stop stop-color="#F4C6EF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-12" cx="142.499928" cy="195.50004" r="38.5"></circle>
+        <filter x="-21.8%" y="-21.8%" width="143.6%" height="143.6%" filterUnits="objectBoundingBox" id="filter-13">
+            <feGaussianBlur stdDeviation="5.6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="3.06161713e-15%" x2="50%" y2="100%" id="linearGradient-14">
+            <stop stop-color="#F7DFF5" stop-opacity="0.540000021" offset="0%"></stop>
+            <stop stop-color="#E5E9EC" stop-opacity="0.119999997" offset="44.2708343%"></stop>
+            <stop stop-color="#F7DFF5" stop-opacity="0.709999979" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-15" cx="344.5" cy="344.5" r="344.5"></circle>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="689" height="689" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <circle id="path-17" cx="344.500201" cy="344.499898" r="253.5"></circle>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="507" height="507" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <circle id="path-19" cx="344.500216" cy="344.499942" r="154.5"></circle>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="309" height="309" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+        <linearGradient x1="21.917808%" y1="9.58904207%" x2="89.4977156%" y2="92.9223728%" id="linearGradient-21">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#B2D4FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="92.6940681%" y1="100.000002%" x2="12.3287741%" y2="23.0593615%" id="linearGradient-22">
+            <stop stop-color="#4D9AFF" offset="0%"></stop>
+            <stop stop-color="#B2D4FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-23" cx="530.371951" cy="502.371925" r="38.5"></circle>
+        <filter x="-21.8%" y="-21.8%" width="143.6%" height="143.6%" filterUnits="objectBoundingBox" id="filter-24">
+            <feGaussianBlur stdDeviation="5.6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage_Desktop-Copy" transform="translate(2.000000, -68.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Homepage_Redesign_2021-(Background/Mask)" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="Group-82" mask="url(#mask-2)">
+                <g transform="translate(1089.000072, 42.999960)">
+                    <g id="Group-80" stroke-width="1">
+                        <g id="Group-72" transform="translate(0.000133, -0.000032)" stroke="url(#linearGradient-3)" stroke-dasharray="0,0" stroke-width="2">
+                            <use id="Ellipse-18" mask="url(#mask-5)" transform="translate(344.500000, 344.500000) scale(1, -1) rotate(13.466283) translate(-344.500000, -344.500000) " xlink:href="#path-4"></use>
+                            <use id="Ellipse-19" mask="url(#mask-7)" transform="translate(344.499946, 344.499904) scale(1, -1) rotate(13.466283) translate(-344.499946, -344.499904) " xlink:href="#path-6"></use>
+                            <use id="Ellipse-20" mask="url(#mask-9)" transform="translate(344.499812, 344.500027) scale(1, -1) rotate(13.466283) translate(-344.499812, -344.500027) " xlink:href="#path-8"></use>
+                        </g>
+                        <path d="M112.736081,96.9598923 C116.878216,96.9598923 120.236081,93.6020279 120.236081,89.4598923 C120.236081,85.3177567 116.878216,81.9598923 112.736081,81.9598923 C108.593945,81.9598923 105.236081,85.3177567 105.236081,89.4598923 C105.236081,93.6020279 108.593945,96.9598923 112.736081,96.9598923 Z" id="Ellipse-33" fill="#DCF5DE" transform="translate(112.736081, 89.459892) rotate(-13.466283) translate(-112.736081, -89.459892) "></path>
+                        <path d="M242.575925,235.533379 C246.71806,235.533379 250.075925,232.175514 250.075925,228.033379 C250.075925,223.891243 246.71806,220.533379 242.575925,220.533379 C238.433789,220.533379 235.075925,223.891243 235.075925,228.033379 C235.075925,232.175514 238.433789,235.533379 242.575925,235.533379 Z" id="Ellipse-23" fill="#FAF1E1" transform="translate(242.575925, 228.033379) rotate(-13.466283) translate(-242.575925, -228.033379) "></path>
+                    </g>
+                    <g id="Ellipse-40" filter="url(#filter-13)">
+                        <use fill="url(#linearGradient-10)" xlink:href="#path-12"></use>
+                        <use fill-opacity="0.699999988" fill="url(#linearGradient-11)" xlink:href="#path-12"></use>
+                    </g>
+                </g>
+            </g>
+            <path d="M-1,692 L1365,692 L1365,1276 L-1,1276 L-1,692 Z" id="Rectangle-79" fill="#F9FAFA" mask="url(#mask-2)"></path>
+            <g id="Group-2" mask="url(#mask-2)">
+                <g transform="translate(-320.871951, -344.871925)">
+                    <g id="Group-80" stroke-width="1" stroke-dasharray="0,0">
+                        <g id="Group-72" transform="translate(0.000026, -0.000020)" stroke="url(#linearGradient-14)" stroke-width="2">
+                            <use id="Ellipse-18" mask="url(#mask-16)" transform="translate(344.500000, 344.500000) scale(1, -1) rotate(-18.138333) translate(-344.500000, -344.500000) " xlink:href="#path-15"></use>
+                            <use id="Ellipse-19" mask="url(#mask-18)" transform="translate(344.500201, 344.499898) scale(1, -1) rotate(-18.138333) translate(-344.500201, -344.499898) " xlink:href="#path-17"></use>
+                            <use id="Ellipse-20" mask="url(#mask-20)" transform="translate(344.500216, 344.499942) scale(1, -1) rotate(-18.138333) translate(-344.500216, -344.499942) " xlink:href="#path-19"></use>
+                        </g>
+                    </g>
+                    <g id="Ellipse-41" filter="url(#filter-24)">
+                        <use fill="url(#linearGradient-21)" xlink:href="#path-23"></use>
+                        <use fill-opacity="0.699999988" fill="url(#linearGradient-22)" xlink:href="#path-23"></use>
+                    </g>
+                </g>
+            </g>
+            <path d="M98.0403517,140.540419 C102.182487,140.540419 105.540352,137.182555 105.540352,133.040419 C105.540352,128.898283 102.182487,125.540419 98.0403517,125.540419 C93.8982161,125.540419 90.5403517,128.898283 90.5403517,133.040419 C90.5403517,137.182555 93.8982161,140.540419 98.0403517,140.540419 Z" id="Ellipse-33" fill="#FAF1E1" mask="url(#mask-2)" transform="translate(98.040352, 133.040419) rotate(-13.466283) translate(-98.040352, -133.040419) "></path>
+            <path d="M66.0403517,347.540419 C70.1824874,347.540419 73.5403517,344.182555 73.5403517,340.040419 C73.5403517,335.898283 70.1824874,332.540419 66.0403517,332.540419 C61.8982161,332.540419 58.5403517,335.898283 58.5403517,340.040419 C58.5403517,344.182555 61.8982161,347.540419 66.0403517,347.540419 Z" id="Ellipse-23" fill="#F7DFF5" mask="url(#mask-2)" transform="translate(66.040352, 340.040419) rotate(-13.466283) translate(-66.040352, -340.040419) "></path>
+        </g>
+    </g>
+</svg>
