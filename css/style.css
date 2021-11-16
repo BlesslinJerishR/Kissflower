@@ -1,0 +1,25 @@
+html,body{
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav{
+    padding: 0 0 0 80px;
+}
+
+#navbarNav{
+    position: relative;
+    left: 33%;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+    font-family: 'Barlow', sans-serif;
+}
+
+li{
+    list-style: none;
+}
+
+.dropdown-menu p{
+    font-size: smaller;
+}

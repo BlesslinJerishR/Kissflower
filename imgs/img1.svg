@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="99px" height="90px" viewBox="0 0 99 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Signup-Popup_Growing" transform="translate(-434.000000, -373.000000)" fill-rule="nonzero">
+            <g id="Group-5" transform="translate(398.000000, 365.000000)">
+                <g id="Group" transform="translate(27.000000, 0.000000)">
+                    <ellipse id="Oval" fill="#4C91F7" transform="translate(85.161993, 32.249436) rotate(-44.810000) translate(-85.161993, -32.249436) " cx="85.1619929" cy="32.2494361" rx="28.0200618" ry="16.7965138"></ellipse>
+                    <ellipse id="Oval" fill="#4AA147" transform="translate(78.943067, 80.490677) rotate(-45.210000) translate(-78.943067, -80.490677) " cx="78.9430667" cy="80.4906767" rx="12.6493609" ry="20.0778901"></ellipse>
+                    <ellipse id="Oval" fill="#CF2C91" transform="translate(31.931248, 32.253603) rotate(-45.190000) translate(-31.931248, -32.253603) " cx="31.9312481" cy="32.2536028" rx="16.7965138" ry="28.0200618"></ellipse>
+                    <ellipse id="Oval" fill="#F58220" transform="translate(38.153225, 80.487995) rotate(-44.790000) translate(-38.153225, -80.487995) " cx="38.153225" cy="80.4879948" rx="20.0778901" ry="12.6493609"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

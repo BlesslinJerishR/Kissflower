@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Slice</title>
+    <defs>
+        <polygon id="path-1" points="0 2 6.99511394 2 6.99511394 10.0006293 9 10.0006293 8.95222448 13 0 13"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9" height="11" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2-Copy" transform="translate(1.000000, 4.000000)">
+            <use id="Rectangle" stroke="#1F80FF" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="1" xlink:href="#path-1"></use>
+            <rect id="Rectangle-Copy-27" stroke="#1F80FF" x="6.5" y="0.5" width="8" height="10"></rect>
+            <polygon id="Path-23" fill="#1F80FF" points="15.3132881 10.561033 16.6269262 11.8134231 17.8168151 10.4980814 16.6566441 9.27052631 18 7.82753335 12 6 13.8783398 12"></polygon>
+        </g>
+    </g>
+</svg>

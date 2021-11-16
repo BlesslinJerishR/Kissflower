@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Slice Copy 23</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3-Copy-7" transform="translate(2.000000, 4.000000)">
+            <rect id="Rectangle" stroke="#D341A5" x="6.5" y="7.5" width="7" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy-31" stroke="#1F80FF" x="6.5" y="2.5" width="7" height="3" rx="1"></rect>
+            <rect id="Rectangle-Copy-51" stroke="#D341A5" x="2.5" y="2.5" width="2" height="3" rx="1"></rect>
+            <rect id="Rectangle" stroke="#1F80FF" x="0.5" y="0.5" width="15" height="11" rx="2"></rect>
+            <line x1="3.25" y1="7.5" x2="4.75" y2="7.5" id="Line-6-Copy" stroke="#1F80FF" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="3.25" y1="9.5" x2="4.75" y2="9.5" id="Line-6-Copy-2" stroke="#1F80FF" stroke-linecap="round" stroke-linejoin="round"></line>
+        </g>
+    </g>
+</svg>
